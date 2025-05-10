@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class Student{// Student is a new 
+class Student{// Student is a new data type
 public :
     string name;
     int rno;
